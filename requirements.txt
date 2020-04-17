@@ -1,0 +1,11 @@
+certifi==2020.4.5.1
+click==7.1.1
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+prettytable==0.7.2
+pyecharts==1.7.1
+simplejson==3.17.0
+Werkzeug==1.0.1
+yapf==0.29.0
