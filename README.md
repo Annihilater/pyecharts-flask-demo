@@ -239,7 +239,7 @@ index.html
 
 效果
 
-![](https://raw.githubusercontent.com/Annihilater/pyecharts-flask-demo/master/picture/%E5%AE%9A%E6%97%B6%E5%85%A8%E9%87%8F%E6%9B%B4%E6%96%B0%E5%9B%BE%E8%A1%A8.gifh)
+![定时全量新增图表](https://raw.githubusercontent.com/Annihilater/pyecharts-flask-demo/master/picture/定时全量更新图表.gif)
 
 ## 定时增量更新图表
 
